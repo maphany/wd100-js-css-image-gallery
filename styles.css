@@ -1,0 +1,26 @@
+.list-image img{
+	width: 80px;
+	height: 80px;
+}
+#list-top li{
+	display:inline-block;
+	padding-bottom: 1px;
+}
+#display-container #display{
+	height: 300px;
+	width: 300px;
+	border-color: red;
+	border: solid;
+	border-width: 1px;
+	position:relative;
+	left: 120px;
+	bottom: 290px;
+}
+#list-left-bottom{
+	position: relative;
+	left: 305px;
+	bottom:380px;
+}
+ul {
+	list-style: none;
+}
